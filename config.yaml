@@ -1,0 +1,6 @@
+name: craneweather
+version: 1
+
+libraries:
+- name: requests
+  version: "2.13.0"
